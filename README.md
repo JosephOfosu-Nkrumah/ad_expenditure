@@ -5,7 +5,7 @@ A $50,000 increase in ads would translate into approximately 2500 additional uni
 The table is shown below:
 
 
-![](https://github.com/JosephOfosu-Nkrumah/python_users_survey/blob/main/Table.png)
+![](https://github.com/JosephOfosu-Nkrumah/ad_expenditure/blob/main/Table.png)
 
 The chat below represents a regression line scatter plot on the data:
 
