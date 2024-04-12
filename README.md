@@ -5,3 +5,6 @@ A $50,000 increase in ads would translate into approximately 2500 additional uni
 The chat below represents a regression line scatter plot on the data:
 
 
+![](https://github.com/JosephOfosu-Nkrumah/ad_expenditure/blob/main/Effect%20of%20Ad%20Expenditure%20on%20Sales.png)
+
+
